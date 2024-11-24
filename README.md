@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+  <h2>If you think money can't buy happiness then transfer it into my account.</h2>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=CammyParakeet&theme=dark" alt="GitHub Streak">
+  </a>
+</div>
 
 <!--
 **CammyParakeet/CammyParakeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
