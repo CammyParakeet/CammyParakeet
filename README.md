@@ -3,6 +3,8 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=CammyParakeet&theme=dark" alt="GitHub Streak">
   </a>
+  <br><br>
+  <img src="https://discord-readme-badge.vercel.app/api?id=272198104608931840" alt="My Discord">
 </div>
 
 <!--
